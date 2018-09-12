@@ -18,20 +18,33 @@ random.seed()
 print ""
 
 # list of words
-nouns = ["eyes", "toast", "ocean", "lenses", "sights", "nights"]
+nouns = ["my", "eyes", "toast", "ocean", "lenses", "sights", "nights"]
+second_nouns = ["eyes", "toast", "ocean", "lenses", "sights", "nights"]
 verbs = ["are", "like", "are", "depict"]
 adjectives = ["curved", "dark", "deep", "rigid"]
-adverbs = ["my", "and"]
+adverbs = ["and"]
 
 #select random words from lists
 noun = random.choice(nouns)
+second_noun = random.choice(second_nouns)
 verb = random.choice(verbs)
 adjective = random.choice(adjectives)
 adverb = random.choice(adverbs)
 
 #print a sentence with random words from the lists
-print "{adverb} {noun} {verb} {adjective}.".format(adverb=adverb,
-       noun=noun, verb=verb, adjective=adjective)
+print "{noun} {adverb} {second_noun} {verb} {adjective}.".format(noun=noun,adverb=adverb,
+       second_noun=second_noun, verb=verb, adjective=adjective)
+
+#select random words from lists
+noun = random.choice(nouns)
+second_noun = random.choice(second_nouns)
+verb = random.choice(verbs)
+adjective = random.choice(adjectives)
+adverb = random.choice(adverbs)
+
+#print a sentence with random words from the lists
+print "{noun} {adverb} {second_noun} {verb} {adjective}.".format(noun=noun,adverb=adverb,
+       second_noun=second_noun, verb=verb, adjective=adjective)
 
 #line break
 print ""
@@ -47,8 +60,8 @@ for adjectives in adjectives:
     whitespace = " " * i
     print whitespace + adjective
     
-# print the rest of the sentence
-    print "{noun} {verb}.".format(noun=noun, verb=verb)
+## print the rest of the sentence
+#    print "{noun} {verb}.".format(noun=noun, verb=verb)
                
             
 
