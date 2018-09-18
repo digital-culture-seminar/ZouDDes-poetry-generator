@@ -1,15 +1,16 @@
 # ZouDDes-Poetry-Generator
 
-this my very first markdown readme,
-I'm slowly "getting" IT
+This is my very first markdown readme
 
-a list
+To start the whole process - a list of things need to do
 * Anaconda / Python installation
 * install gitdownload
 * install github desktop
 * install atom
 then write write readmethe we'll commit this to our github repository
 
-Project inspired by Color and Feeling
-Color terms to generate poem
-The poem evoke feelings  
+# P1
+
+Project inspiration: Color and Feeling
+Use Color Terms/Names to generate poem
+The poem will evoke feelings  
