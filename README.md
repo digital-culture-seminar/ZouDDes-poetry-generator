@@ -11,6 +11,6 @@ then write write readmethe we'll commit this to our github repository
 
 # P1
 
-Project inspiration: Color and Feeling
-Use Color Terms/Names to generate poem
+Project inspiration: Color and Feeling  
+Use Color Terms/Names to generate poem  
 The poem will evoke feelings  
