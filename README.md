@@ -16,3 +16,6 @@ Use Color Terms/Names to generate poem
 The poem will evoke feelings  
 
 * Structure
+  color Terms
+  feelings
+  
