@@ -17,4 +17,5 @@ The poem will evoke feelings
 
 * Structure  
   color Terms  
-  feelings
+  feelings  
+  repeat
