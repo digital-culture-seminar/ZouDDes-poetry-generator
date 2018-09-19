@@ -14,3 +14,5 @@ then write write readmethe we'll commit this to our github repository
 Project inspiration: Color and Feeling  
 Use Color Terms/Names to generate poem  
 The poem will evoke feelings  
+
+* Structure
