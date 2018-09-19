@@ -15,7 +15,6 @@ Project inspiration: Color and Feeling
 Use Color Terms/Names to generate poem  
 The poem will evoke feelings  
 
-* Structure
+* Structure  
   color Terms
   feelings
-  
