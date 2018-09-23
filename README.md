@@ -11,9 +11,10 @@ then write write readmethe we'll commit this to our github repository
 
 # P1
 
-Project inspiration: Color and Origin, Color and Feeling  
-Color Terms/Names and its origins  
-Color Terms/Names and its associated feelings  
+Project inspiration: Color and Origin, Color and Feeling
+
+Color Terms/Names and its origins     
+Color Terms/Names and its associated feelings     
 Color systems and schemes    
 
 * Structure  
