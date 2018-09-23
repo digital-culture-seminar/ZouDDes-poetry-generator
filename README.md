@@ -18,11 +18,11 @@ Color Terms/Names and its associated feelings
 Color systems and schemes    
 
 * Structure  
-  origins
-  color terms  
-  feelings
-  systems
-  schemes
+  color origins  
+  color terms     
+  feelings   
+  color systems   
+  color schemes   
   repeat
 
 * format  
