@@ -1,0 +1,32 @@
+Remember the Viet Cong? Well, I'll get back to them in a minute. 
+
+This memo announces the formation of a new project, the Humor Interface Project, sometimes known in revolutionary circles as the Interface-esE liberation Army, or, IEA, (pronounced at the top of your lungs, as EYEEE-EEEEE-AHHHHH... while drumming your chest). The members seek no official status whatsoever and will accept none when they succeed. 
+
+I am not a member of this group but have been retained by them as their publicist for an indecent sum of money. They have requested that I set before the public their noble raisin d'etre [sic], their altruistic intentions, their anti-establishment methods, and of course, their consulting fee scale and answering service number. 
+
+This project formed at a recent conference during the "HCI and All Possible Universes" session. Or was it the "HCI and All Possible Universes Containing Alcohol" session? Anyway, the group intends to implement, study, reflect and publish about humorous interface techniques. 
+
+For the AIlist.
+The idea started with the question, "Suppose we tried to make a computer act like Robin Williams or Jonathan Winters? Not staged humor, not joke telling, not static cartoons but interactive... contextual humor, adlibbing on material provided by the combination of user and system programmer?" From there things went straight down or straight up depending upon your perspective. 
+
+The group shared their favorites. Windows that crack or melt into a slag heap. The MacIntosh IBM DOS emulator that, when fired up, begins to put up a zippy MacIntosh screen, stops halfway down the screen to declare, "Oops? Sorry. You wanted 195Os technology." It then goes into command line mode. The supposed unused ROM hook in the Mac that would have caused a monkey to dance across the screen ONCE upon the 7698th (or whatever) boot of the machine. Insects crawling around the screen. 
+
+As you read this, project programmers in ski-masks are already coding up: 
+ELUSIVE MENU: When the mouse cursor enters such menus, the menus dodge away while insulting the user with appropriate language and gestures. Somebody informed us, this is just like the Mac Bomb program.
+CRASHING WINDOWS: You begin to move a window. Suddenly it accelerates out of your control up toward the corner of the screen. When it reaches the corner, it smashes to pieces, falling to the bottom of the screen. Appropriate sounds effects are heard. Email is sent to the site manager blaming you for the broken window.
+AEROBIC WINDOWS: You begin to move a window and suddenly it accelerates out of your control bouncing around the screen faster and faster. It finally slows down an sits on your screen off in the direction you were moving it, but huffing and puffing, sort of expanding in and out. You begin working again, it's breathing slows and stops after a few moments.
+FONTS: that scream, melt, sigh or beg as you delete them. Giggle as you transpose characters. Yawn when you come back to them in the morning. Burp when you edit them after lunch.
+PEOPLE INSIDE THE MONITOR: You get an error. A large face leans in from the left, gives you a "Lettermanesque look", like he's got a horrible flavor on his tongue, and then leans back out of the monitor.
+ENCRYPTION WAVES undulate through your current text buffer occasionally stopping at your cursor to make stupid demands. They go away for a while when you give in.
+GIGANTIC SCREEN-FILLING BODY PART MOUSE CURSOR ICONS: You can move them no more than a half inch in each direction. Need the Interface-esE liberation Army say more?
+The group suspects that a lot could learned about the un-obvious communication possibilities of computational media by analyzing successful and failed humor attempts. At least unspoken expectations of interface experience should stand out in bold relief as humor violates them. Misunderstandings of those same expectations and experiences should stand out as humor fails. 
+
+Back to the Viet Cong. Remember that a large percentage of the South Vietnamese Government was V.C.? Its the same way with the Humorous Interface Project. You're part of it. We're collecting examples of humorous interface techniques. They might be implemented or not If you know of some, please send them along to will@mcc.com . We'd much appreciate it. At sometime, somehow, we'll publish the best of what you send in back out into the community. Send code if you like. 
+
+I'll end with a quote from the HIP group. 
+"The project is putting together a macro, With-Humorous-Interface. Dare you run inside it? Who knows what you'll see and hear next time you cycle through text called back from the kill ring. Text YOU killed."
+will@mcc.com 
+
+publicist for The Humor Interface Project, 
+
+Alias "Humor In Your Face", "Humid Interface" And "Interface-Ese liberation Army (EYEEE-EEE-AHHH...) 
